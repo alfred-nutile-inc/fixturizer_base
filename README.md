@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/alfred-nutile-inc/fixturizer.svg?branch=master)](https://travis-ci.org/alfred-nutile-inc/fixturizer)
+[![Build Status](https://travis-ci.org/alfred-nutile-inc/fixturizer_base.svg?branch=master)](https://travis-ci.org/alfred-nutile-inc/fixturizer_base)
 
 # Fixturizer 
 

@@ -19,7 +19,7 @@ class FixturizerServiceProvider extends ServiceProvider {
      */
     public function boot()
     {
-        $this->package('alfred-nutile-inc/fixturizer');
+        $this->package('alfred-nutile-inc/fixturizer_base');
     }
 
 	/**
